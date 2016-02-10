@@ -1,0 +1,92 @@
+ll
+q - quit
+history
+rm notes.txt
+touch notes.txt
+cd notebook
+mkdir notebook
+mkdir
+cd projects/
+cd - home
+cd /
+..
+cd Library/
+ls -l
+cd ls
+ls - list
+cd prework/
+cd pr
+cd Galvanize/
+cd Network
+cd Applications/
+cd Downloads/
+cd ..
+cd \
+ls l
+tree -L 2
+tree -aL 1
+tree -L 1
+brew install tree
+ls -a
+ls -R
+man ls
+ls ls
+ls -A
+ls -r
+ls -lt
+ls -t
+open ~
+open . open in the finder
+echo ~
+pwd
+which whoami
+whoami
+surge
+git commit -m 'add a CNAME'
+git add CNAME
+touch CNAME
+git commit -m 'Add a tiny web page'
+git comit -m 'Add a tiny web page'
+git add index.html
+open index.html
+open in
+atom .
+touch index.html
+git init
+cd dave1532.surge.sh
+mkdir dave1532.surge.sh
+mkdir-dave1532.surge.sh
+cd Projects
+mkdir ~/Projects
+surge -V
+npm install -g surge
+node ~/Desktop/test.js
+.exit
+rm ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.email 'davidrutkoske@gmail.com'
+git config --global user.name 'dave1532'
+brew upgrade git
+git --version
+git ---version
+which git
+w
+brew install git
+echo $PATH
+which echo
+echo
+shout $PATH
+shout $P
+echo $EDITOR
+atom ~/.config/fish/config.fish
+brew info
+fish_update_completions
+curl -fsSL https://git.io/vgqFU | ruby
+We made a text file called joke.txt! Let's open it up in our default text editor so we can write a joke in it. Can we do that from our command line? Of course!
+touch The touch command creates files for us. If we try to touch a file that already exists, it will not be overwritten.
+cd ~
+ruby -v
+mv - is renameing or moving

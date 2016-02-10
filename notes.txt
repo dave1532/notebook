@@ -52,7 +52,7 @@ open index.html
 open in
 atom .
 touch index.html
-git init
+git init - 
 cd dave1532.surge.sh
 mkdir dave1532.surge.sh
 mkdir-dave1532.surge.sh
